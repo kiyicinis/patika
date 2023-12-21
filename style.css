@@ -1,0 +1,29 @@
+*{
+    list-style: none;
+}
+div.resim{
+    text-align: center;
+}
+div.arama{
+    text-align: center;
+    background: #EEEEEE;
+    margin:0 50px 0 50px;
+    padding-bottom: 2px;
+}
+.container{
+    display: flex;
+    margin: 0 -365px 0 48px;
+    
+}
+.box{
+    width: 25%;
+    height: auto;
+    background: #7EE5DA;
+    margin: 2px;
+    text-align: center;
+    padding-top: 5px;
+    font-size: small;
+}
+footer{
+    text-align: center;
+}
